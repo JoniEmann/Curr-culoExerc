@@ -37,6 +37,11 @@ p {
     margin-bottom: 0px;
 }
 
+#border {
+    background-color: black;
+    height: 20px;
+}
+
 /*-----------------------------------------------------------*/
 
 #esquerda {
